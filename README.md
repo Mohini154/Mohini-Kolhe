@@ -87,7 +87,7 @@ To build scalable, secure, and automated cloud infrastructure while continuously
 
 📧 **Email:** **mohinikolhe920@gmail.com**
 
-💻 **GitHub:** https://github.com/DevOpsbyYash/
+💻 **GitHub:*
 
 💼 **LinkedIn:** https://www.linkedin.com/in/mohini-kolhe-b4ab343a7?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
